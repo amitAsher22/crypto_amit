@@ -3,7 +3,7 @@
 ![crypto](https://github.com/user-attachments/assets/a0842540-02ce-4954-b22c-703c9c0bd4a3)
 
 
-:triangular_flag_on_post: <a href="https://email-registration-henna.vercel.app/" target="_blank">The Website</a>
+:triangular_flag_on_post: <a href="https://monumental-hummingbird-f43455.netlify.app/" target="_blank">The Website</a>
 
 let's see what react js actually is And I used : 
 - *React* is a *JavaScript* library for building user-friendly interfaces.
